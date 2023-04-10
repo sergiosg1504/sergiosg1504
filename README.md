@@ -25,7 +25,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contact with Me </h3>
 
 <p align="center">
 <a href="mailto:sergiosg@usal.es"><img alt="Email" src="https://img.shields.io/badge/Email-sergiosg@usal.es-blue?style=flat-square&logo=gmail"></a>
